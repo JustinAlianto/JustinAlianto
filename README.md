@@ -1,11 +1,11 @@
 ## Hi, I'm Justin 👋!
-👨‍💻 Analytics Engineer @ Synpulse Canada | CS @ UofT (St. George) 2020-2025
+👨‍💻 Forward Deployed Engineer @ Ethicrithm Inc. | CS @ UofT (St. George) 2020-2025
 
 <!--Start Intro-->               
-*"Based in Toronto, I am a Data Engineer and AI Enthusiast with a huge passion for AI-powered workflows and analytics."*
+*"Based in Toronto, I am a Forward Deployed Engineer and AI Enthusiast with a huge passion for AI-powered workflows and analytics."*
 
 - ✨ A habit marathoner, and a marathoner :)
-- 🏙 2+ years of experience of data engineering within the financial and insurance space.
+- 🏙 2+ years of experience of forward deployed engineering and data engineering within the financial, insurance, and logistics space.
 - 🔭 Currently deepening my expertise in: Palantir Foundry, AWS Certification, French.
 - ⚡ Current Project: TBD :(
 - 🍜 Fun fact: My dream is to be a competitive eater lol.
