@@ -6,7 +6,7 @@
 
 - ✨ A habit marathoner, and a marathoner :)
 - 🏙 2+ years of experience of forward deployed engineering and data engineering within the financial, insurance, and logistics space.
-- 🔭 Currently deepening my expertise in: Palantir Foundry, AWS Certification, French.
+- 🔭 Currently deepening my expertise in: Palantir Foundry, Anthropic Certification, AWS Certification, French.
 - ⚡ Current Project: TBD :(
 - 🍜 Fun fact: My dream is to be a competitive eater lol.
 - 🔗 Visit my [website](https://www.aliantomasoen.com/) to learn more about me or reach out to my [LinkedIn](https://www.linkedin.com/in/justinalianto)!
